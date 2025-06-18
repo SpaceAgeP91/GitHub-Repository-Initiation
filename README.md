@@ -37,11 +37,10 @@ This project uses GitHub Actions for:
 ## 🤝 Contributing
 
 Contributions are welcome!  
-- Fork the repo
-- Create your feature branch (`git checkout -b feature/AmazingFeature`)
-- Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-- Push to the branch (`git push origin feature/AmazingFeature`)
-- Open a Pull Request
+1. Fork the repo  
+2. Create a feature branch (`git checkout -b feature/my-feature`)  
+3. Commit your changes  
+4. Open a pull request  
 
 ## 📄 License
 
