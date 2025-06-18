@@ -1,4 +1,6 @@
 # GitHub-Repository-Initiation
+![Build Status](https://github.com/SpaceAgeP91/GitHub-Repository-Initiation/actions/workflows/spellcheck.yml/badge.svg)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 A demonstration repository showing how to set up and use GitHub Actions for spell checking and CI/CD automation.
 
