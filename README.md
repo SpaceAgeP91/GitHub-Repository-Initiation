@@ -6,8 +6,9 @@ A sample repository demonstrating how to set up GitHub Actions for automation an
 
 ## 🚀 Features
 
-- List your main features here
-- For example: Spell check workflow, CI/CD automation, etc.
+- Automated spell check on every push and pull request
+- Easy CI/CD workflow setup with GitHub Actions
+- Example templates for quick project initiation
 
 ## 📦 Setup
 
