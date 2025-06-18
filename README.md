@@ -2,6 +2,11 @@
 
 ![Build Status](https://github.com/SpaceAgeP91/GitHub-Repository-Initiation/actions/workflows/spellcheck.yml/badge.svg)
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+![Coverage](https://img.shields.io/codecov/c/github/SpaceAgeP91/GitHub-Repository-Initiation)
+![Release](https://img.shields.io/github/v/release/SpaceAgeP91/GitHub-Repository-Initiation)
+![Contributors](https://img.shields.io/github/contributors/SpaceAgeP91/GitHub-Repository-Initiation)
+![Last Commit](https://img.shields.io/github/last-commit/SpaceAgeP91/GitHub-Repository-Initiation)
+![ITILv3 Certified](https://img.shields.io/badge/ITILv3-Certified-blueviolet)
 
 A demonstration repository showing how to set up and use GitHub Actions for spell checking and CI/CD automation.
 
