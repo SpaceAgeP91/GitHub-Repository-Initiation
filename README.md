@@ -1,6 +1,6 @@
 # GitHub-Repository-Initiation
 
-> Briefly describe your project here.
+A sample repository demonstrating how to set up GitHub Actions for automation and spell checking.
 
 ---
 
