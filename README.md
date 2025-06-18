@@ -25,8 +25,8 @@ A sample repository demonstrating how to set up GitHub Actions for automation an
 
 ## 🛠 Usage
 
-- Briefly explain how to use your project.
-- If there are workflows (like spellchecking), mention how/when they run.
+After setting up, make a change to any file and push it.  
+The Spell Check workflow will automatically run and check for spelling errors.
 
 ## 🤖 GitHub Actions
 
