@@ -44,7 +44,7 @@ Contributions are welcome!
 
 ## 📄 License
 
-Add your license information here (e.g., MIT, Apache, etc.).
+MIT License. See [LICENSE](LICENSE) for details.
 
 ## 🙋‍♂️ Questions
 
