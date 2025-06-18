@@ -20,10 +20,7 @@ A sample repository demonstrating how to set up GitHub Actions for automation an
 
 2. **Install dependencies** (if any)
     ```sh
-    # For example, if using Node.js:
     npm install
-    # Or Python:
-    # pip install -r requirements.txt
     ```
 
 ## 🛠 Usage
