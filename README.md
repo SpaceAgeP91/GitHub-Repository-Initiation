@@ -30,9 +30,9 @@ The Spell Check workflow will automatically run and check for spelling errors.
 
 ## 🤖 GitHub Actions
 
-This repository uses GitHub Actions for automation.  
-Workflows included:
-- **Spell Check**: Automatically checks spelling on pushes and pull requests to `main` or `master`.
+This project uses GitHub Actions for:
+- Spell checking code and documentation automatically on every push or PR
+- Ensuring code quality with automated workflow checks
 
 ## 🤝 Contributing
 
