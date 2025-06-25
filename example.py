@@ -1,2 +1,5 @@
 # TODO: Refactor this code for clarity. See issue #2
-print("Hello from Python!")
+def greet():
+    print("Hello from Python!")
+
+greet()
